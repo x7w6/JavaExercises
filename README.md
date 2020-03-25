@@ -23,18 +23,35 @@ This repository contains solutions for exercises from Y. Daniel Liang's *Introdu
 - 16: JavaFX UI Controls and Multimedia 
 - 17: Binary I/O 
 - 18: Recursion 
-- 19: Generics 
-- 20: Lists, Stacks, Queues, and Priority Queues 
-- 21: Sets and Maps 
-- 22: Developing Efficient Algorithms 
-- 23: Sorting 
-- 24: Implementing Lists, Stacks, Queues, and Priority Queues
-- 25: Binary Search Trees 
-- 26: AVL Trees 
-- 27: Hashing 
-- 28: Graphs and Applications 
-- 29: Weighted Graphs and Applications 
-- 30: Multithreading and Parallel Programming 
-- 31: Networking 
-- 32: Java Database Programming 
-- 33: JavaServer Faces 
+
+
+**( to be continued )** 
+`Generics` 
+ 
+`Lists, Stacks, Queues, and Priority Queues` 
+
+`Sets and Maps`
+
+`Developing Efficient Algorithms`
+
+`Sorting` 
+
+`Implementing Lists, Stacks, Queues, and Priority Queues`
+
+`Binary Search Trees` 
+
+`AVL Trees`
+
+`Hashing`
+
+`Graphs and Applications`
+
+`Weighted Graphs and Applications`
+
+`Multithreading and Parallel Programming`
+
+`Networking`
+
+`Java Database Programming`
+
+`JavaServer Faces`
