@@ -3,8 +3,7 @@
     Assignment 1.3
     3/25/2020
     ---------------
-    ( Program displays area and perimeter of a rectangle 
-    with the following formulas:  Area = L x W and P = 2(L+W) )  
+    ( Displays a pattern of JAVA )  
 */
 
 public class JavaText {
