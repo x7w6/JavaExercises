@@ -1,39 +1,40 @@
-# JavaExercises
-exercises for programming with Java
-## Synopsis
-This repository contains solutions for exercises from Y. Daniel Liang's Introduction to Java Programming, Comprehensive Version, 10th Edition. Some solutions may draw from material in later chapters, and therefore be unsuitable for study purposes.
+# JavaExercises💡
+completed by Zachary Weaver
 
-### Progress
-Chapter 01: Introduction to Computers, Programs, and Java (COMPLETE)
-Chapter 02: Elementary Programming (COMPLETE)
-Chapter 03: Selections (COMPLETE)
-Chapter 04: Mathematical Functions, Characters, and Strings (COMPLETE)
-Chapter 05: Loops (COMPLETE)
-Chapter 06: Methods (COMPLETE)
-Chapter 07: Single-Dimensional Arrays (COMPLETE)
-Chapter 08: Multidimensional Arrays (COMPLETE)
-Chapter 09: Objects and Classes (COMPLETE)
-Chapter 10: Object-Oriented Thinking (COMPLETE)
-Chapter 11: Inheritance and Polymorphism (COMPLETE)
-Chapter 12: Exception Handling and Text I/O (COMPLETE)
-Chapter 13: Abstract Classes and Interfaces (COMPLETE)
-Chapter 14: JavaFX Basics (COMPLETE)
-Chapter 15: Event-Driven Programming and Animations (COMPLETE)
-Chapter 16: JavaFX UI Controls and Multimedia (COMPLETE)
-Chapter 17: Binary I/O (COMPLETE)
-Chapter 18: Recursion (COMPLETE)
-Chapter 19: Generics (COMPLETE)
-Chapter 20: Lists, Stacks, Queues, and Priority Queues (COMPLETE)
-Chapter 21: Sets and Maps (COMPLETE)
-Chapter 22: Developing Efficient Algorithms (COMPLETE)
-Chapter 23: Sorting (COMPLETE)
-Chapter 24: Implementing Lists, Stacks, Queues, and Priority Queues (COMPLETE)
-Chapter 25: Binary Search Trees (COMPLETE)
-Chapter 26: AVL Trees (COMPLETE)
-Chapter 27: Hashing (incomplete)
-Chapter 28: Graphs and Applications (incomplete)
-Chapter 29: Weighted Graphs and Applications (incomplete)
-Chapter 30: Multithreading and Parallel Programming (incomplete)
-Chapter 31: Networking (incomplete)
-Chapter 32: Java Database Programming (incomplete)
-Chapter 33: JavaServer Faces (incomplete)
+## Synopsis 
+This repository contains solutions for exercises from Y. Daniel Liang's *Introduction to Java Programming, Comprehensive Version, 11th Edition*.
+
+## Progress 
+- __01: Introduction to Computers, Programs, and Java__  ✅ 
+- 02: Elementary Programming
+- 03: Selections
+- 04: Mathematical Functions, Characters, and Strings 
+- 05: Loops
+- 06: Methods
+- 07: Single-Dimensional Arrays
+- 08: Multidimensional Arrays
+- 09: Objects and Classes
+- 10: Object-Oriented Thinking 
+- 11: Inheritance and Polymorphism 
+- 12: Exception Handling and Text I/O
+- 13: Abstract Classes and Interfaces
+- 14: JavaFX Basics 
+- 15: Event-Driven Programming and Animations
+- 16: JavaFX UI Controls and Multimedia 
+- 17: Binary I/O 
+- 18: Recursion 
+- 19: Generics 
+- 20: Lists, Stacks, Queues, and Priority Queues 
+- 21: Sets and Maps 
+- 22: Developing Efficient Algorithms 
+- 23: Sorting 
+- 24: Implementing Lists, Stacks, Queues, and Priority Queues
+- 25: Binary Search Trees 
+- 26: AVL Trees 
+- 27: Hashing 
+- 28: Graphs and Applications 
+- 29: Weighted Graphs and Applications 
+- 30: Multithreading and Parallel Programming 
+- 31: Networking 
+- 32: Java Database Programming 
+- 33: JavaServer Faces 
