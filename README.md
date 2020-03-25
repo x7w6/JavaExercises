@@ -25,33 +25,12 @@ This repository contains solutions for exercises from Y. Daniel Liang's *Introdu
 - 18: Recursion 
 
 
-**( to be continued )** 
-`Generics` 
- 
-`Lists, Stacks, Queues, and Priority Queues` 
+**( to be continued )**
 
-`Sets and Maps`
-
-`Developing Efficient Algorithms`
-
-`Sorting` 
-
-`Implementing Lists, Stacks, Queues, and Priority Queues`
-
-`Binary Search Trees` 
-
-`AVL Trees`
-
-`Hashing`
-
-`Graphs and Applications`
-
-`Weighted Graphs and Applications`
-
-`Multithreading and Parallel Programming`
-
-`Networking`
-
-`Java Database Programming`
-
-`JavaServer Faces`
+  `Generics`⎪`Lists, Stacks, Queues, and Priority Queues`   
+  `Sets and Maps`⎪`Developing Efficient Algorithms`
+  `Sorting`⎪`Binary Search Trees`⎪`AVL Trees`⎪`Hashing`
+  `Implementing Lists, Stacks, Queues, and Priority Queues`
+  `Graphs and Applications`⎪`Weighted Graphs and Applications`
+  `Multithreading and Parallel Programming`⎪`Networking`
+  `Java Database Programming`⎪`JavaServer Faces`
